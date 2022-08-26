@@ -9,7 +9,7 @@
     <a href="https://github.com/hussainm15121/blockchain-based-polling-system/tree/main/documentation"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.youtube.com/watch?v=Wl9EFy71CAM">View Demo</a>
+    <a href="https://www.youtube.com/watch?v=Wl9EFy71CAM"><strong>View Demo</strong></a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
