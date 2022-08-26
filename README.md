@@ -1,18 +1,16 @@
 <div id="top"></div>
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
 
-<h3 align="center">Blockchain Based Polling System</h3>
-
-  <p align="center">
+<h1>Blockchain Based Polling System</h1>
+<p>
     Blockchain based polling system is a Decentralized Application (DApp) developed to allow users to create and vote on polls with complete anonymity and transparency. 
     <br />
     <a href=""><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
-</div>
+    <a href="https://www.youtube.com/watch?v=Wl9EFy71CAM">View Demo</a>
+</p>
 
 <!-- TABLE OF CONTENTS -->
 
