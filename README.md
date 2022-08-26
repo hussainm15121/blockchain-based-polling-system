@@ -6,7 +6,7 @@
 <p>
     Blockchain based polling system is a Decentralized Application (DApp) developed to allow users to create and vote on polls with complete anonymity and transparency. 
     <br />
-    <a href=""><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/hussainm15121/blockchain-based-polling-system/tree/main/documentation"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://www.youtube.com/watch?v=Wl9EFy71CAM">View Demo</a>
