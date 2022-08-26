@@ -1,0 +1,8 @@
+.spinner {
+    margin-top: 450px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+  }

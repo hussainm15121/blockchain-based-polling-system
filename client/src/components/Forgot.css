@@ -1,0 +1,61 @@
+/* Forgot password */
+
+.forgot{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.forgot-form{
+    padding: 2rem;
+    margin-left: 500px;
+    font-size: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    color: antiquewhite;
+}
+
+.title-For{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.label-for{
+    display: grid;
+    text-align: left;
+    font-size: larger;
+    color: antiquewhite;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.messages{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-for{
+    background-color: #a6a6a6;
+    border-radius: 5px;
+    color: antiquewhite;
+    font-size: 20px;
+    display: block;
+    padding: 5px;
+    border: 1px solid rgb(107, 107, 107);
+    margin: 15px auto;
+}
+
+.input-for {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 430px;
+    background: #545454;
+    color: antiquewhite;
+    border: 1px solid rgb(107, 107, 107);
+    text-align: center;
+    height: 35px;
+}
+  
+  /* End of Forgot */

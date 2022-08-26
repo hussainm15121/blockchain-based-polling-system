@@ -1,0 +1,250 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/kali/Desktop/milestone 4/pollContract/contracts/PollContTrial18.sol": {
+      "lastModificationDate": 1658912953091,
+      "contentHash": "fab768258821a6b4ee0abd25dd052b71",
+      "sourceName": "contracts/PollContTrial18.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "PollContTrial18"
+      ]
+    },
+    "/home/kali/Desktop/milestone 4/pollContract/contracts/PollContTrial19.sol": {
+      "lastModificationDate": 1658953221229,
+      "contentHash": "f594505a8ebb2a54be4f24a829896c08",
+      "sourceName": "contracts/PollContTrial19.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "PollContTrial19"
+      ]
+    },
+    "/home/kali/Desktop/milestone 4/pollContract/contracts/PollContTrial21.sol": {
+      "lastModificationDate": 1658997006454,
+      "contentHash": "f20a925ec2c645ab0588ae584e9884dc",
+      "sourceName": "contracts/PollContTrial21.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "PollContTrial21"
+      ]
+    },
+    "/home/kali/Desktop/milestone 4/pollContract/contracts/PollContract.sol": {
+      "lastModificationDate": 1659024679340,
+      "contentHash": "64b760e45be0a31984b6d2f26010c831",
+      "sourceName": "contracts/PollContract.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "PollContract"
+      ]
+    },
+    "/home/kali/Desktop/milestone 4/pollContract/contracts/PollContTrial15.sol": {
+      "lastModificationDate": 1658910043479,
+      "contentHash": "322c3c6e24ff30e9c8987ae22829f238",
+      "sourceName": "contracts/PollContTrial15.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "PollContTrial15"
+      ]
+    },
+    "/home/kali/Desktop/milestone 4/pollContract/contracts/PollContTrial16.sol": {
+      "lastModificationDate": 1658912803791,
+      "contentHash": "742ee88f4feb2aacc6d2519fd45e488f",
+      "sourceName": "contracts/PollContTrial16.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "PollContTrial16"
+      ]
+    },
+    "/home/kali/Desktop/milestone 4/pollContract/contracts/PollContTrial17.sol": {
+      "lastModificationDate": 1658911303379,
+      "contentHash": "eab7d4ce77a586b72bce723185cf3512",
+      "sourceName": "contracts/PollContTrial17.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "PollContTrial17"
+      ]
+    }
+  }
+}

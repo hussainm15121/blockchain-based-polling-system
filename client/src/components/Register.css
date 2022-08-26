@@ -1,0 +1,56 @@
+ /* Register Page */
+  
+.register{
+    display: grid;
+    width: 100vw;
+    color: antiquewhite;
+    justify-content: center;
+    text-align: center;
+    grid-template: 1fr 5fr 1fr;
+    gap: 10px;
+    margin: auto;
+}
+
+.register button:hover {
+    transform: translateY(1px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+
+.titleRegister {
+  font-size: 35px;
+  margin-bottom: 20px;
+}
+
+.input-reg {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    gap: 5px;
+}
+
+.label-reg {
+    display: grid;
+    text-align: left;
+    font-size: larger;
+    color: antiquewhite;
+}
+
+.input {
+    height: 25px;
+    background: #545454;
+    color: antiquewhite;
+    border: 1px solid rgb(107, 107, 107);
+    text-align: center;
+    padding: 5px;
+}
+
+.reg-but {
+    background:none;
+    border:none;
+    margin:0;
+    padding:0;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 90px;
+}

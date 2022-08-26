@@ -1,0 +1,58 @@
+@media (grid:0){
+    /* Add Mobile Code ... */
+  
+    @media (min-width: 768px){
+    .main-content{
+      background-image: 
+    radial-gradient(at 0% 100%, hsla(253,16%,7%,1) 0, transparent 53%), 
+    radial-gradient(at 50% 150%, hsla(339,49%,30%,1) 0, transparent 50%);
+      display: flex;
+      background-color: #0f0e13;
+      display: grid;
+      height: 100vh;
+      width: 99.4vw;
+      grid-template: 20% 20px 1fr ;
+      gap: 10px;
+      grid-template-areas: "side content dash-but";
+    }
+    .side{
+      grid-area: side;
+    }
+    .content{
+      grid-area: content;
+    }
+    .dash-but{
+      grid-area: dash-but;
+      float: right;
+      color: white;
+      margin-top: 5px;
+      margin-left: 1000px;
+      
+    }
+    .con-Title{
+      font-size: 40px;
+      color: white;
+    }
+    }
+    h1{
+      
+      font-size: 100px;
+    }
+    label{
+      text-align: center;
+      
+    }
+
+    .upload{
+
+    }
+    .profile-class{
+      
+    }
+    .profile-pic{
+      
+    }
+    .walletConnect{
+
+    }
+  }

@@ -1,0 +1,70 @@
+.user{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.titleUser {
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+
+table.tab-user {
+    border: 1px solid;
+}
+
+table.tab-user th {
+    border: 1px solid;
+    height: 70px;
+    text-align: center;
+    vertical-align: bottom;
+    background-color: #505050;
+    color: white;
+    border-collapse: collapse;
+    border-color: black;
+}
+
+table.tab-user th:nth-child(1) {
+    width: 20%;
+}
+
+table.tab-user th:nth-child(2) {
+    width: 15%;
+}
+
+table.tab-user th:nth-child(3) {
+    width: 10%;
+}
+
+table.tab-user th:nth-child(4) {
+    width: 15%;
+}
+
+table.tab-user th:nth-child(5) {
+    width: 10%;
+}
+
+table.tab-user th:nth-child(6) {
+    width: 10%;
+}
+
+table.tab-user td {
+    border: 1px solid;
+    height: 70px;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+table.tab-user tr:hover {background-color: #C0C0C0;}
+
+.verified {
+    color: green;
+}
+
+.notVerified {
+    color: red;
+}
+
+.pending {
+    color: #FF6800;
+}

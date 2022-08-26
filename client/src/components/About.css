@@ -1,0 +1,80 @@
+/*About.jsx css*/
+.banner-main-about {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding-top: 0px;
+}
+
+.about {
+  gap: 20px;
+  height: 100vh;
+}
+
+.main-heading {
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  padding: 18px;
+  color: antiquewhite;
+  padding-top: 150px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.btn_cont {
+  display: flex;
+  justify-content: center;
+  color:antiquewhite;
+  background-color: #363636;
+  --tw-ring-color: #D3D3D3;
+  border-top-right-radius: 0.375rem; 
+  border-bottom-right-radius: 0.375rem;
+  border-top-left-radius: 0.375rem; 
+  border-bottom-left-radius: 0.375rem;
+  font-size: 1.125rem;
+  line-height: 1.75rem; 
+  font-weight: 600;
+  
+}
+
+.Para {
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  padding: 18px;
+  color: antiquewhite;
+  text-align: center;
+  padding-bottom: 50px;
+  
+}
+
+.Para1 {
+  font-size:25px;
+  color: antiquewhite;
+  line-height: 2;
+  text-align: center;
+  padding-bottom: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.Para2 {
+  font-size:20px;
+  color: antiquewhite;
+  line-height: 2;
+  
+}
+
+.Para3 {
+  font-size:20px;
+  color: antiquewhite;
+  line-height: 2;
+  text-align: right;
+  margin-right: 20px;
+}
+
+.meetTeamMain{
+  font-size:30px;
+  color: antiquewhite;
+}

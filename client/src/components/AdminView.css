@@ -1,0 +1,46 @@
+/*View Admin Page CSS*/
+.AdminView {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.titleAdminView {
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+
+table.tab-admin {
+    border: 1px solid;
+}
+
+table.tab-admin th{
+    border: 1px solid;
+    height: 70px;
+    text-align: center;
+    vertical-align: bottom;
+    background-color: #505050;
+    color: white;
+    border-color: black;
+}
+
+table.tab-admin th:nth-child(1) {
+    width: 10%;
+}
+
+table.tab-admin th:nth-child(2) {
+    width: 10%;
+}
+
+table.tab-admin th:nth-child(3) {
+    width: 10%;
+}
+
+table.tab-admin td {
+    border: 1px solid;
+    height: 70px;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+table.tab-admin tr:hover {background-color: #C0C0C0;}

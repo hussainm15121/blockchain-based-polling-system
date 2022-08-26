@@ -1,0 +1,53 @@
+.contactAdmin{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.titleContactAdmin {
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+
+table.tab-contact {
+    border: 1px solid;
+}
+
+table.tab-contact th{
+    border: 1px solid;
+    height: 70px;
+    text-align: center;
+    vertical-align: bottom;
+    background-color: #505050;
+    color: white;
+    border-color: black;
+}
+
+table.tab-contact th:nth-child(1) {
+    width: 10%;
+}
+
+table.tab-contact th:nth-child(2) {
+    width: 10%;
+}
+
+table.tab-contact th:nth-child(3) {
+    width: 10%;
+}
+
+table.tab-contact th:nth-child(4) {
+    width: 10%;
+}
+
+table.tab-contact th:nth-child(5) {
+    width: 30%;
+}
+
+table.tab-contact td {
+    border: 1px solid;
+    height: 70px;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+table.tab-contact tr:hover {background-color: #C0C0C0;}
